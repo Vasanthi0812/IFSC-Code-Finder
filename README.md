@@ -38,5 +38,6 @@ Admin can also recover their own password.
 ### Credential for admin panel :
 
 Username: admin
+
 Password: Test@123
 
